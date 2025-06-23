@@ -1,0 +1,27 @@
+# Ignorar arquivos compilados e temporários
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar ambientes virtuais
+venv/
+ENV/
+env/
+
+# Ignorar pastas de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar modelos treinados (opcional)
+Models/
+
+# Ignorar arquivos de log
+Temporarios/
+*.log
+
+Demo.py
+Demo2.py
